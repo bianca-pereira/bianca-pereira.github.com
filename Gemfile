@@ -19,4 +19,5 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
     gem 'jekyll-twitter-plugin'
+    gem 'jekyll-youtube'
 end

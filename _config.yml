@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 #google_analytics: ''
-#disqus: ''
+disqus: 'bianca-pereira'
 #mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title-:year-:month-:day/
@@ -30,6 +30,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-twitter-plugin
+  - jekyll-youtube
 
 # Archives
 jekyll-archives:
