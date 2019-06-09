@@ -1,0 +1,21 @@
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% endif %}
+
+  {% if paginator.page_trail %}
+    {% for trail in paginator.page_trail %}
+      {% if page.url == trail.path %}
+        <span class="ml-1 mr-1">{{ trail.num }}</span>
+      {% else %}
+        <a class="ml-1 mr-1" href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' | replace: 'index.html', ''}}">{{ trail.num }}</a>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% endif %}
+</div>
+{% endif %}
