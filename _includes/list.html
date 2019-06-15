@@ -2,9 +2,9 @@
 
 {% if include.category == "all" %}
 	<div class="section-title col-md-12 mt-4">
-	<h2 id="{{ include.label | replace: " ","-" }}"><span class="text-capitalize">{{ include.label }}</span></h2>
+	<h2 id="{{ include.label | replace: " ","-" }}"><span class="text-capitalize">{{ include.label }}</span> <a href="{{ site.baseurl }}/posts">See all</a></h2>
 	</div>
-	{% for post in site.posts %}
+	{% for post in site.posts limit:include.limit %}
 		{% if post.title != null %}
 			{% if group == null or group == post.group %}
 				{% include postbox.html %}
@@ -19,7 +19,7 @@
 			<h2 id="{{ include.label | replace: " ","-" }}"><span class="text-capitalize">{{ include.label }}</span></h2>
 			</div>
 			{% assign pages_list = category[1] %}
-			{% for post in pages_list %}
+			{% for post in pages_list limit:include.limit %}
 				{% if post.title != null %}
 					{% if group == null or group == post.group %}
 						{% include postbox.html %}

@@ -11,16 +11,16 @@ title: Home
 
             <!-- Recent posts Index
             ================================================== -->
-            {% include list.html category="all" label="Recent Posts" %}
+            {% include list.html category="all" label="Recent Posts" limit=3 %}
 
             <!-- Projects Index
 			================================================== -->
-			{% include list.html category="project" label="Projects" %}
+			{% include list.html category="project" label="Projects" limit=3 %}
 
 
 			<!-- Hobbies Index
 			================================================== -->
-			{% include list.html category="hobby" label="Hobbies" %}
+			{% include list.html category="hobby" label="Hobbies" limit=3 %}
         </div>
         <div class="col-md-4 text-center text-lg-right">
             {% twitter https://twitter.com/bianca_oli_per limit=5 %}
