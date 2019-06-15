@@ -2,7 +2,11 @@
 
 {% if include.category == "all" %}
 	<div class="section-title col-md-12 mt-4">
-	<h2 id="{{ include.label | replace: " ","-" }}"><span class="text-capitalize">{{ include.label }}</span> <a href="{{ site.baseurl }}/posts">See all</a></h2>
+	<h2 id="{{ include.label | replace: " ","-" }}"><span class="text-capitalize">{{ include.label }}</span>
+		{% if site.posts.size > include.limit %} 
+			<a href="{{ site.baseurl }}/posts">See all</a>
+		{% endif %}
+	</h2>
 	</div>
 	{% for post in site.posts limit:include.limit %}
 		{% if post.title != null %}
