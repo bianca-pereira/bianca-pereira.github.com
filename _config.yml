@@ -9,7 +9,7 @@ baseurl: ''
 disqus: 'bianca-pereira'
 #mailchimp-list: ''
 include: ["_pages"]
-permalink: /:title-:year-:month-:day/
+permalink: /posts/:title-:year-:month-:day/
 
 # Authors
 authors:

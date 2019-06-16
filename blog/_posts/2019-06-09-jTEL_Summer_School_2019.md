@@ -8,6 +8,7 @@ categories:
 tags:
   - summer school
   - jTELSS2019
+permalink: /jTEL_Summer_School_2019-2019-06-09
 image: assets/images/jtelss2019.png
 description: "Last week I attended the jTELSS2019, a summer school in the topic of Technology Enhanced Learning (TEL)."
 featured: false
