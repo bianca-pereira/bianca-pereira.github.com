@@ -2,7 +2,7 @@
 layout: post
 title: "Reflections on jTEL Summer School 2019: A Blog Series"
 author: bianca
-date: 2019-06-16
+date: 2019-06-16 15:00:00
 categories:
   - events
 tags:
@@ -14,7 +14,7 @@ featured: false
 comments: true
 ---
 
-This article introduces a series of reflections on my engagement on the jTEL Summer School 2019 activities. In the [last post]({{ site.baseurl }}/jTEL_Summer_School_2019-2019-06-09/) I discussed the importance of summer schools for the formation of PhD students. In this post I will explain the themes I used to chose among the multiple parallel workshops available in the jTEL Summer School 2019.
+This article introduces a series of reflections on my engagement on the jTEL Summer School 2019 activities. In the [last post]({{ site.baseurl }}{% post_url /blog/_posts/2019-06-09-jTEL_Summer_School_2019 %}) I discussed the importance of summer schools for the formation of PhD students. In this post I will explain the themes I used to chose among the multiple parallel workshops available in the jTEL Summer School 2019.
 
 <center>{% twitter https://twitter.com/jtelss/status/1131321027848482819 %}</center>
 
