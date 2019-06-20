@@ -10,7 +10,7 @@ tags:
   - jTELSS2019
   - constructionism
   - tutorial
-image: 
+image: https://microbit.org/images/microbit-back.png
 description: "My reflection on the Introduction to Constructionism and Learning-by-Making Workshop at JTELSS19"
 featured: false
 comments: true
