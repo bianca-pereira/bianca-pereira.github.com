@@ -24,8 +24,8 @@ Originally, my plan was to write one post with my experience in most workshops b
 
     I have a strong belief that in order to learn we need to engage our whole selves; whereas engaging our minds is a good first step, we also should improve our ways to engage the rest of our bodies as well as feelings. Because of this, I have been trying to include elements of experiential learning on my presentations and I am also interested in learning more on how I can make any 'normal' software more engaging and educational. Softwares are tools to support humans, so it is our job to make them more human friendly. The workshops and talks I attended in this theme were: 
 
-    - the keynote talk of Rebecca Fergusson on 'Innovating Pedagogy: Enhancing Learning'
-    - Introduction to Constructionism and Learning-by-Making
+    - [the keynote talk of Rebecca Fergusson on 'Innovating Pedagogy: Enhancing Learning'](/posts/How_to_apply_pedagogies_to_research_dissemination-2019-06-16)
+    - [Introduction to Constructionism and Learning-by-Making](/posts/Learning_through_making_and_public_reflection-2019-06-20)
     - Creating Storified Online Courses
     - Rites of passage: Creating impactful Scenarios for the Transition in Between Realities in Mixed-Reality
     - Multimodal Tutor
