@@ -82,6 +82,15 @@ section.recent-posts {
     margin-bottom: 27px;
 }
 
+.section-title h2 a {
+    font-weight: 500;
+    font-size: 1rem;
+    right: 10px;
+    position: absolute;
+    right: 15px;
+    margin-bottom: 27px;
+}
+
 .section-title span {
     border-bottom: 1px solid rgba(0, 0, 0, .44);
     display: inline-block;
