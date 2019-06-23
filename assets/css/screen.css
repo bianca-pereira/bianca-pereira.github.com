@@ -12,8 +12,14 @@ License: https://www.wowthemes.net/freebies-license/
     padding: 1rem 0rem;
 }
 
+@media screen and (max-width:768px) {
+    h1 {
+        font-size: 2rem
+    }
+}
+
 a {
-    color: #00ab6b;
+    color: #40ab7b;
     transition: all 0.2s;
 }
 
@@ -88,13 +94,13 @@ section.recent-posts {
     right: 10px;
     position: absolute;
     right: 15px;
-    margin-bottom: 27px;
+    margin-top: 5px;
 }
 
 .section-title span {
     border-bottom: 1px solid rgba(0, 0, 0, .44);
     display: inline-block;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     margin-bottom: -1px;
 }
 
@@ -259,12 +265,12 @@ span.post-read-more {
 }
 
 span.post-read-more a {
-    color: rgba(0, 0, 0, .44);
+    color: rgba(40, 0b, 7b, .44);
 }
 
 span.post-name a,
 span.post-read-more a:hover {
-    color: rgba(0, 0, 0, .8);
+    color: rgba(40, 0b, 7b, .8);
 }
 
 .dot:after {
@@ -375,7 +381,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.posttitle {
-    font-weight: 100;
+    font-weight: 500;
     margin-bottom: 1rem;
 }
 
@@ -454,13 +460,9 @@ blockquote {
     margin-left: 0;
 }
 
-.share ul li i.fa {
-    border: 1px solid #ddd;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-    text-align: center;
-    border-radius: 50%;
+.share ul li i.fab {
+    color: #40ab7b;
+
 }
 
 .svgIcon {
@@ -607,13 +609,13 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
+    color: white;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
     font-size: 0.85rem;
     display: inline-block;
+    background-color: #40ab7b;
 }
 
 .btn.subscribe {
@@ -784,6 +786,10 @@ h6 {
 .article-post h6 {
     font-weight: 700;
     margin-bottom: 1.5rem;
+}
+
+.article-post a {
+    border-bottom: 1px #40ab7b dashed;
 }
 
 .article-post img.shadow {
