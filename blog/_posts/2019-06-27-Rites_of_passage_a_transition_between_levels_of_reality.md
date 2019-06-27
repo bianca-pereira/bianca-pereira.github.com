@@ -32,8 +32,10 @@ The workshop started in a very odd way. The organisers asked to scan our iris in
 
 Having our eyes scanned, the workshop started with an extremely interesting presentation topic. [Katharina Tillmans <i class="fab fa-twitter"></i>](https://twitter.com/CGNfil), from Cologne Game Lab, started by introducing the Reality-Virtuality continuum. She explained that each of our experiences fall somewhere between Absolute Reality and Virtual Reality in this continuum. According to her, we never really get to experience Absolute Virtuality because, well.. we exist in the real world.. right? (Unless you believe in The Matrix, but that is another discussion). Therefore, each of our experiences using technology is more or less virtual. The problem, she claims, is that our current technological experiences create gaps in what should be a continuum space. For instance, when we use our phones to scan a QR code, at the first point in time we are in the reality and at a second point in time, BOOM, we are already within the virtual world navigatin some website or acessing a given app. Katharina points that the lack of a smooth transition between levels of reality is what creates a gap. The work of the workshop organisers is to improve people’s experiences by creating smooth transitions between levels of reality-virtuality and, consequently, removing this transition gap.
 
-> We never really get to experience Absolute Virtuality
-
+<center>
+	<img src="https://drive.google.com/uc?export=view&id=1HN0wqr08fc7i5o0s1Nom2pGe6-qEeIVM" height="75%" width="75%"/>
+	<p><em>We never really get to experience Absolute Virtuality. Slides from Katharina Tillmans.</em></p>
+</center>
 
 In order to fill the gaps in the reality-virtuality continuum, Katharina presented the idea of “Rites of Passage”. She explains that human life has a few common rites of passage (e.g. birth, marriage, childbirth and death) and that in each of these rites we pass through three stages: Separation, Liminality, and Incorporation.
 
