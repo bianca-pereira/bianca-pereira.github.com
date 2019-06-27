@@ -26,8 +26,8 @@ Originally, my plan was to write one post with my experience in most workshops b
 
     - [the keynote talk of Rebecca Fergusson on 'Innovating Pedagogy: Enhancing Learning'](/posts/How_to_apply_pedagogies_to_research_dissemination-2019-06-16)
     - [Introduction to Constructionism and Learning-by-Making](/posts/Learning_through_making_and_public_reflection-2019-06-20)
-    - Creating Storified Online Courses
-    - Rites of passage: Creating impactful Scenarios for the Transition in Between Realities in Mixed-Reality
+    - [Creating Storified Online Courses](/posts/Using_storytelling_to_engage_learners-2019-06-20/)
+    - [Rites of passage: Creating impactful Scenarios for the Transition in Between Realities in Mixed-Reality](/posts/Rites_of_passage_a_transition_between_levels_of_reality-2019-06-27/)
     - Multimodal Tutor
 
 2. **Self-directed learning**
