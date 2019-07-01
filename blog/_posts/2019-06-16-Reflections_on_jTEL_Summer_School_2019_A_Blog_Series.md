@@ -28,7 +28,7 @@ Originally, my plan was to write one post with my experience in most workshops b
     - [Introduction to Constructionism and Learning-by-Making](/posts/Learning_through_making_and_public_reflection-2019-06-20)
     - [Creating Storified Online Courses](/posts/Using_storytelling_to_engage_learners-2019-06-20/)
     - [Rites of passage: Creating impactful Scenarios for the Transition in Between Realities in Mixed-Reality](/posts/Rites_of_passage_a_transition_between_levels_of_reality-2019-06-27/)
-    - Multimodal Tutor
+    - [Multimodal Tutor](/posts/multimodality_and_the_change_in_meaning-2019-06-27/)
 
 2. **Self-directed learning**
 
