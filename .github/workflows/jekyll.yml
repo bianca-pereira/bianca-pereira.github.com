@@ -24,3 +24,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         target_branch: master
         jekyll_src: /
+        keep_history: true
