@@ -11,6 +11,7 @@ disqus: 'bianca-pereira'
 include: ["_pages"]
 permalink: /posts/:title-:year-:month-:day/
 
+
 # Authors
 authors:
   bianca:
@@ -74,3 +75,4 @@ adsense-data-ad-slot: ""
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+keep_files: [.github]
