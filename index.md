@@ -7,7 +7,7 @@ title: Home
 <div class="container">
     <div class="row">
         <div class="col-md-9 text-center text-lg-left">
-            <p>A researcher and software developer at work, a feminist by ideal, and a dancer and singer by passion. Welcome to my website!</p>
+            <p>A researcher and software developer at work, a feminist by ideal, and an educator by passion. Welcome to my website!</p>
 
             <!-- Recent posts Index
             ================================================== -->
